@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="517cf7fe-d651-4050-a023-dc6fc45f58d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605151333434</updated>
       <workItem from="1605151334481" duration="91000" />
-      <workItem from="1605152163201" duration="9191000" />
+      <workItem from="1605152163201" duration="10716000" />
     </task>
     <task id="LOCAL-00001" summary="Background color">
       <created>1605160843757</created>
@@ -53,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605160843757</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Background color">
+      <created>1605161816672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605161816672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test borderline">
+      <created>1605162035629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605162035629</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,28 +77,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Background color" />
-    <option name="LAST_COMMIT_MESSAGE" value="Background color" />
+    <MESSAGE value="test borderline" />
+    <option name="LAST_COMMIT_MESSAGE" value="test borderline" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="79" key="CommitChangelistDialog2" timestamp="1605160843229">
+    <state x="265" y="79" key="CommitChangelistDialog2" timestamp="1605162035147">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="265" y="79" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1605160843229" />
-    <state x="518" y="390" key="Github.ShareDialog" timestamp="1605158649251">
+    <state x="265" y="79" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1605162035147" />
+    <state x="518" y="390" key="Github.ShareDialog" timestamp="1605161982928">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="518" y="390" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1605158649251" />
+    <state x="518" y="390" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1605161982928" />
     <state x="434" y="197" key="Github.UntrackedFilesDialog" timestamp="1605158659313">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="434" y="197" key="Github.UntrackedFilesDialog/0.0.1280.984@0.0.1280.984" timestamp="1605158659313" />
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1605160852817">
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1605162039476">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1605160852817" />
-    <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605160805909">
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1605162039476" />
+    <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605162028208">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984@0.0.1280.984" timestamp="1605160805909" />
+    <state x="457" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984@0.0.1280.984" timestamp="1605162028208" />
   </component>
 </project>
